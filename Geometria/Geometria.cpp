@@ -116,7 +116,7 @@ int main()
 			cout << "* ";
 
 		}
-		cout << endl;
+		cout << endl;// пробую перезалить
 
 	}
 #endif //TRIANGLE_5_DZ
